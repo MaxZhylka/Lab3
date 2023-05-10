@@ -13,5 +13,5 @@ xcopy /? > "C:\Users\dexho\Лабораторные\Группа\ФИО\batch\Н
 
 xcopy "C:\Users\dexho\Лабораторные\Группа\ФИО\batch\Не скрытая папка\copyhelp.txt" "C:\Users\dexho\Лабораторные\Группа\ФИО\batch\Скрытая папка\copied_copyhelp.txt"
 
-
+exit 1
 pause
