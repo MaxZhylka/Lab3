@@ -24,3 +24,4 @@ for /d %%i in ("%path%\*") do (
 
 rem Выводим размеры всех подкаталогов
 echo %sizes%
+exit 1
